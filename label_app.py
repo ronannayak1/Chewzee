@@ -6,7 +6,7 @@ import pandas as pd
 import random
 
 # path -- update to local image path
-image_folder = "/Users/ronannayak/Food/test-westwood-images-local/restaurant_images"
+image_folder = "restaurant_images" #"/Users/ronannayak/Food/test-westwood-images-local/restaurant_images"
 label_file = "image_labels.json"
 csv_file = "image_labels.csv"
 flattened_csv_file = "flattened_labels.csv"
